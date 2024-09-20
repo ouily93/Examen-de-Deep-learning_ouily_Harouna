@@ -1,0 +1,11 @@
+typing 
+uvicorn
+fastapi 
+pydantic
+transformers 
+torch
+transformers
+numpy
+pandas
+gradio 
+
